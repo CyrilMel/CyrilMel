@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1>Hi 👋, I'm  Cyril Mel</h1>
 👨‍💻 Aspiring Full Stack Developer<br>🎯 Small Steps, Big Goals<br>🤝 Collaborative Coder
 
 
